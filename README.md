@@ -1,4 +1,4 @@
-# Hi, I'm Christopher! 👋
+# Hi, I'm Christopher! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 
 Welcome to my GitHub profile!  
 I'm passionate about technology, open-source software, and continuous learning.
